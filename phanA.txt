@@ -1,0 +1,28 @@
+Đáp án :
+1. 
+ - kiểm tra xem nếu giá trị của grade nằm trong khoảng [90,100] thì trả về giá trị 1(true), ngược lại trả về false(0). 
+ - Cú pháp sai. Sửa lại: bool isA = (90 <= grade && grade <= 100);
+2. 
+- in ra kết quả = 0
+3.
+4. 
+- giá trị là: căn 2 nhân căn 2 = 2
+5.
+- lỗi [Warning] division by zero [-Wdiv-by-zero]
+6. 
+- double x, cout x thì ra 1 giá trị 
+- nếu chuyển dòng khai báo ra ngoài hàm main thì kết quả =0
+7.
+- 0, 0.75, 0.75, 0.75
+8.
+A.	- lỗi [Warning] multi-character character constant [-Wmultichar]
+9.
+- không có lỗi
+- chỉ tới biến có kiểu dữ liệu char
+10.
+- không có lỗi
+- chỉ tới biến có kiểu dữ liệu int
+11.
+- chưa khai báo biến F
+12.
+- in ra “Here”
